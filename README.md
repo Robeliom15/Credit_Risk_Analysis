@@ -4,11 +4,6 @@
 
 ### Purpose
 
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-
 ## Results
 
 - 
@@ -18,5 +13,10 @@
 - 
 
 - 
+## Summary
+
+
+
+
 
 ![alt text](http://url/to/img.png)
