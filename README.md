@@ -48,3 +48,6 @@ For this project, we want the ability to predict the credit risk for people who 
 
 ![Undersampling]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/Undersampling.png?raw=true)
 
+## Summary
+
+When looking for a good machine learning model to use we need a good balance of accuracy, precision, and recall scores. The only model that fits this is the easy ensemble adaBoost classifier since all three are around 90%. The other models do not have a good enough balance to be used for what we are looking for.
