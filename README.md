@@ -2,31 +2,49 @@
 
 ## Overview of Project
 
-## Results
+### Purpose
+For this project, we want the ability to predict the credit risk for people who apply. To do this we use many libraries to make use of machine learning models to make the predictions. 
 
-- Balanced Random Forest Classifier:
+## Results
+### Balanced Random Forest Classifier
+- Accuracy: 78%
+- Precision: 99%
+- Recall Scores: 91%
 
 ![Balanced Random Forest Classifier]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/Balanced%20Random%20Forest%20Classifier.png?raw=true)
 
-- Combination (Over and Under) Sampling:
+### Combination (Over and Under) Sampling
+- Accuracy: 54%
+- Precision: 99%
+- Recall Scores: 57%
 
 ![Combination (Over and Under) Sampling]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/Combination%20(Over%20and%20Under)%20Sampling.png?raw=true)
 
-- Easy Ensemble AdaBoost Classifier:
+### Easy Ensemble AdaBoost Classifier
+- Accuracy: 92%
+- Precision: 99%
+- Recall Scores: 94%
 
 ![Easy Ensemble AdaBoost Classifier]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/Easy%20Ensemble%20AdaBoost%20Classifier.png?raw=true)
 
-- Naive Random Oversampling:
+### Naive Random Oversampling
+- Accuracy: 64%
+- Precision: 99%
+- Recall Scores: 58%
 
 ![Naive Random Oversampling]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/Naive%20Random%20Oversampling.png?raw=true)
 
-- SMOTE Oversampling:
+### SMOTE Oversampling
+- Accuracy: 65%
+- Precision: 99%
+- Recall Scores: 68%
 
 ![SMOTE Oversampling]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/SMOTE%20Oversampling.png?raw=true)
 
-- Undersampling:
+### Undersampling
+- Accuracy: 65%
+- Precision: 99%
+- Recall Scores: 40%
 
 ![Undersampling]( https://github.com/Robeliom15/Credit_Risk_Analysis/blob/main/images/Undersampling.png?raw=true)
-
-## Summary
 
